@@ -27,5 +27,3 @@ let product = (vetor) => {
     }
     console.log(num_vetor);
 }
-
-product([1,2,3,4,5,6])
